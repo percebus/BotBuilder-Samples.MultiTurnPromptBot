@@ -1,6 +1,6 @@
 
 !env/*.sh.sample
-env.sh
+env/*.sh
 
 ##############################
 ### VisualStudio.gitignore ###
