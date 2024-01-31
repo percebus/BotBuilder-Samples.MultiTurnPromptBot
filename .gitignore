@@ -2,8 +2,8 @@
 !env/*.sh.sample
 env/*.sh
 
-!.azure/deployments/**/sample.parameters.json
-.azure/deployments/**/parameters.json
+!.azure/deployment/**/sample.parameters.json
+.azure/deployment/**/parameters.json
 
 ##############################
 ### VisualStudio.gitignore ###
