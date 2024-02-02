@@ -1,5 +1,6 @@
 {
   "appService.defaultWebAppToDeploy": "/subscriptions/66a0559c-eb2a-48a3-97a2-cab4196a34fe/resourceGroups/JCGuerrero-bots/providers/Microsoft.Web/sites/JCGuerrero-bots-MultiTurnPromptBot",
   "appService.deploySubpath": "src",
-  "sarif-viewer.connectToGithubCodeScanning": "off"
+  "sarif-viewer.connectToGithubCodeScanning": "off",
+  "codeQL.githubDatabase.download": "never"
 }
